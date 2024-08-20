@@ -1,4 +1,5 @@
 # Odin-Recipes
+By Allan C.
 
 # Description
 A simple recipe website. Contains a main page with links to three recipe pages. Has recipes on how to make a banana smoothie, smashes potatoes, and stuffed eggplant. Recipes provided by https://www.allrecipes.com.
